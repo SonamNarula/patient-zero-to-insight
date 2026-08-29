@@ -319,10 +319,9 @@ jupyter notebook
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Sonam Narula**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@SonamNarula](https://github.com/SonamNarula)
 
 ---
 
